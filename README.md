@@ -2,7 +2,7 @@
 A Web Developer, UI/UX Designer 
 
 🔭 I’m currently working on **Eco-Bazar**, my final year project.  
-💬 Ask me about **Web Development, React, Firebase & UI/UX Design**  
+💬 Ask me about **Web Development & UI/UX Design**  
 
 ### 🌐 Connect with me:  
 [![GitHub](https://img.shields.io/badge/GitHub-omiinimbalkar-181717?style=for-the-badge&logo=github)](https://github.com/omiinimbalkar)  
