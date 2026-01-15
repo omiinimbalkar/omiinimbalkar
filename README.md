@@ -1,7 +1,7 @@
 # Hi 👋, I’m Om Nimbalkar  
 A Web Developer, UI/UX Designer 
 
-🔭 I’m currently working on **Eco-Bazar**, my final year project.  
+🔭 I’m currently working on **Eco-Bazar**,
 💬 Ask me about **Web Development & UI/UX Design**  
 
 ### 🌐 Connect with me:  
